@@ -1,4 +1,6 @@
 $navbar-default-bg: #228B22;
+$navbar-default-color: #fff;
+$navbar-default-link-color: #fff;
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
@@ -38,6 +40,10 @@ $navbar-default-bg: #228B22;
 .btn-xlarge {
   font-size: 1.7em;
   background-color: #9ACD32;
+}
+
+.white_text {
+  color: #fff;
 }
 
 footer {
